@@ -1,0 +1,8 @@
+# 3D-CAD Projects
+
+### [DIN Rail mount for keyholed devices](DIN%20Rail%20mount%20for%20keyholed%20devices)
+
+<img align="left" width="100" style="margin-right:1em;" src="DIN Rail mount for keyholed devices/MikroTIK-RB750.png">
+
+FreeCAD paramertised drawing that creates a clip for mounting devices that have wall mouning keyhole slots, such as network switches to a DIN rail vertically therefore providing maximum horizontal width.
+
