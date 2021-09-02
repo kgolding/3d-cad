@@ -6,7 +6,7 @@
 
 FreeCAD paramertised drawing that creates a clip for mounting devices that have wall mouning keyhole slots, such as network switches to a DIN rail, mounted vertically therefore providing maximum horizontal width.
 
--
+<br clear="left"/>
 
 Ready made files are available for:
 
